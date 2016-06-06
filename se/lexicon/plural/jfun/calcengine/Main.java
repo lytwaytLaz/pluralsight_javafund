@@ -1,3 +1,5 @@
+package se.lexicon.plural.jfun.calcengine;
+
 /**
  * What does it do?
  *
